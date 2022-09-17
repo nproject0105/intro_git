@@ -3,3 +3,4 @@ We will study basic git flow
 .git add
 .git commit
 .git remove
+.git status
