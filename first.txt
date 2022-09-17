@@ -1,0 +1,2 @@
+Practicing Git
+We will study basic git flow
